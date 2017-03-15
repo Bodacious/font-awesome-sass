@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'font_awesome/sass/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'font-awesome-sass'
+  spec.name          = 'font-awesome-sassc'
   spec.version       = FontAwesome::Sass::VERSION
   spec.authors       = ['Travis Chase']
   spec.email         = ['travis@travischase.me']
